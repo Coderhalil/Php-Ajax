@@ -25,7 +25,7 @@ hibozdemirr@gmail.com
 
 <b>Kaynakca:</b>
 Bu calisma <i>https://www.webslesson.info/2018/03/php-ajax-crud-using-jquery-ui-dialog.html</i> adresindeki makaleden 
-yararlanilarak gerekli editlemeler ve eklemeler yapilmistir.
+yararlanilarak gerekli editlemeler ve eklemeler yapılarak uretilmisir.
 
 
 
